@@ -1,7 +1,7 @@
-var AllPoints = [];
-var QuickHullSteps = [];
-var QuickHullPoints = [];
-var QuickHullReset = [];
+let AllPoints = [];
+let QuickHullSteps = [];
+let QuickHullPoints = [];
+let QuickHullReset = [];
 
 function getMaxPoint(points){
 	let maxPoint = points[0];
